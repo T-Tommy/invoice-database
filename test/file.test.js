@@ -6,6 +6,8 @@ test('Test name', assert => {
     // Arrange
     const expected = 
 
+    const input =
+
     // Act
     const result = 
 
